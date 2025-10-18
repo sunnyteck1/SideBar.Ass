@@ -231,7 +231,7 @@ footer{
     color:aliceblue;
     position: relative;
     top: 50px;
-    border-radius: 10px 10px ;
+    border-radius: 2px 2px ;
     margin-bottom: 0;
 
 }
@@ -378,6 +378,7 @@ button{
         display: none;
     }
  }
+
 
 
 
