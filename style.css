@@ -132,12 +132,13 @@ header{
     }
     
     .links {
-        padding: 4px 15px;
+        padding: 5px 15px;
         color:#426871;
-        border-radius: 12px;
+        border-radius: 5px;
         text-decoration: none;
         transition: all 0.3s ease-out;
         display: block;
+        margin-bottom:20px
 
         &:hover {
             color:black;
@@ -378,6 +379,7 @@ button{
         display: none;
     }
  }
+
 
 
 
