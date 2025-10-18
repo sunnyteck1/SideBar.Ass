@@ -8,8 +8,11 @@ It features smooth open/close transitions and an animated sign-out confirmation 
 
 
 The design is modern and clean, perfect for portfolios, dashboards, or web apps.
+
+
 ‎
 ‎Features
+
 ‎
 
 ‎1. Responsive sidebar that works well on desktop, tablet, and mobile.
