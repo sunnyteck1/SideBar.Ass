@@ -1,5 +1,6 @@
 Sidebar Navigation Project
 
+
 ‎
 ‎A  simple, responsive sidebar navigation built with HTML, CSS, and JavaScript. 
 
@@ -37,8 +38,6 @@ The design is modern and clean, perfect for portfolios, dashboards, or web apps.
 
 ‎8.Simple code that’s easy to customize and reuse.
 
-
-demo live link: sunnyteck1.github.io/SideBar.Ass/
 
 
 # SideBar.Ass
